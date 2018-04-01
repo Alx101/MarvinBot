@@ -1,0 +1,12 @@
+{
+  "name": "Echoes Bot",
+  "version": "0.0.1",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "moment": "^2.22.0",
+    "winston": "^2.4.1"
+  },
+  "main": "bot.js",
+  "author": "LoKat",
+  "description": "A bot made for managing projects"
+}
